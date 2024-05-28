@@ -1,2 +1,2 @@
 # Hackerrank_solutions
-My crazy solutions for the code questions
+This repository showcases my problem-solving skills using Python by implementing a solution for the challenges on HackerRank. 
