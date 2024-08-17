@@ -7,3 +7,5 @@ This repository showcases my problem-solving skills using Python by implementing
 [Python Badge Solutions](https://github.com/Lala2398/Hackerrank_solutions/tree/main/Python%20Badge%20Solutions)
 
 [SQL Badge Solutions]()
+
+[Algorithms, Problem Solving](https://github.com/Lala2398/Hackerrank_solutions/tree/main/Algorithms)
